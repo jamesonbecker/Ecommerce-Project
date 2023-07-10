@@ -1,0 +1,9 @@
+[submodule "StarterFiles"]
+	path = StarterFiles
+	url = https://github.com/jamesonbecker/StarterFiles.git
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/jamesonbecker/FrontEnd.git
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/jamesonbecker/BackEnd.git
